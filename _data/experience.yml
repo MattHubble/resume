@@ -1,19 +1,19 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+# Senior Database Administrator
+- company: Vail Resorts
+  position: Senior Database Administrator
+  duration: Jan, 2014 &mdash; Present
+  summary: I do stuff.
+  
+# Jobs
+# Senior Database Administrator
+- company: Reed Group 
+  position: Senior Database Administrator
+  duration: Sept, 2013 &mdash; Jan 2014
+  summary: Supported databases for a SAAS platform running on SQL Server 2005 and 2008 R2. Provided troubleshooting assistance for customer-impacting issues and maintained production, test, and development database instances.
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
-
-
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+# Database Administrator
+- company: TransFirst
+  position: Database Administrator 
+  duration: Feb, 2011 &mdash; Sept, 2013
+  summary: <ul class="resume-item-list"><li>Managed 40 PCI-DSS compliant SQL Server instances in a 24/7 environment on SQL Server 2005-2012 including use of partitioning and transparent data encryption.</li><li>Scripted maintenance tasks using powershell and T-SQL. Examples include log shipping automation and monitoring, and sensitive data scrubbing processes to remove production data prior to restore in staging environment.</li><li>Assisted development teams in database design decisions and query performance tuning.</li></ul>

@@ -1,12 +1,12 @@
 # Skills
 # Organizational leadership
 - skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+  description: 
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+# System architecture
+- skill: System architecture
+  description: Designing data platforms to provide appropriate HA/DR to ensure reliability
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+# Devops
+- skill: SQL Server deployment automation
+  description: Database and SSIS projects using Bamboo and Octopus Deploy
