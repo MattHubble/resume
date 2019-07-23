@@ -1,11 +1,16 @@
 # Jobs
+# Principal Database Administrator
+- company: Vail Resorts
+  position: Principal Database Administrator
+  duration: March, 2018 &mdash; Present
+  summary: Continued duties from previous role as well as <ul class="resume-item-list"><li>Implemented CI/CD pipeline for SQL Server database schema changes and SQL Integration Services projects using Octopus Deploy, Bamboo, and Redgate SQL Change Automation.</li><li>Lead a team comprised of principals from each IT infrastructure team to make system architecture decisions for new application implementation projects according to high-availability, security, and performance requirements.</li></ul>
+
 # Senior Database Administrator
 - company: Vail Resorts
   position: Senior Database Administrator
-  duration: Jan, 2014 &mdash; Present
-  summary: I do stuff.
-  
-# Jobs
+  duration: Jan, 2014 &mdash; March, 2018
+  summary: Co-designed datawarehouse in partnership with BI development team to pull data primarily using SSIS from 20+ different sources including SQL Server, APIs returning JSON and XML, and DB2.<ul class="resume-item-list"><li>Implemented partitioning for up to 1 billion row fact tables and converted those tables to clustered columnstore indexed tables after upgrading to SQL 2016.</li><li>Utilized Query Store to identify most problematic queries of nightly ETL processes and provided developers with query optimizations, reducing daily runtime by multiple hours.</li><li>Set up Attunity Replicate for real-time data replication from main point-of-sale system database.</li><li>Assisted in solution for loading data from 10+ acquired resorts.</li></ul>Managed production and non-production database and application servers for 10+ vendor and in-house apps.<ul class="resume-item-list"><li>Created PowerShell scripts to streamline instance configurations, backups, and maintenance jobs across 50+ database servers.</li><li>Monitored system performance and availability using various tools. Created custom Splunk dashboards and reports to display specific KPIs and provide self-service troubleshooting for multiple application teams.</li></ul>
+
 # Senior Database Administrator
 - company: Reed Group 
   position: Senior Database Administrator
@@ -16,4 +21,4 @@
 - company: TransFirst
   position: Database Administrator 
   duration: Feb, 2011 &mdash; Sept, 2013
-  summary: <ul class="resume-item-list"><li>Managed 40 PCI-DSS compliant SQL Server instances in a 24/7 environment on SQL Server 2005-2012 including use of partitioning and transparent data encryption.</li><li>Scripted maintenance tasks using powershell and T-SQL. Examples include log shipping automation and monitoring, and sensitive data scrubbing processes to remove production data prior to restore in staging environment.</li><li>Assisted development teams in database design decisions and query performance tuning.</li></ul>
+  summary: <ul class="resume-item-list"><li>Managed 40 PCI-DSS compliant SQL Server instances in a 24/7 environment on SQL Server 2005-2012 including use of partitioning and transparent data encryption.</li><li>Scripted maintenance tasks using PowerShell and T-SQL. Examples include log shipping automation and monitoring, and sensitive data scrubbing processes to remove production data prior to restore in staging environment.</li><li>Assisted development teams in database design decisions and query performance tuning.</li></ul>
