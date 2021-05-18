@@ -1,7 +1,7 @@
 # Skills
 # System architecture
 - skill: System architecture
-  description: Designing data platforms to provide appropriate performance and HA/DR. Analyzing current system performance metrics such as SQL Server wait metrics and estimating based on expected growth. Ensuring reliability using failover HA/DR technologies such as failover clusters availability groups.
+  description: Designing data platforms to provide appropriate performance and HA/DR. Analyzing current system performance metrics such as SQL Server wait statistics and estimating based on expected growth. Ensuring reliability using failover HA/DR technologies such as failover clusters availability groups.
 
 # Organizational leadership
 - skill: Organizational leadership
