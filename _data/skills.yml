@@ -1,12 +1,12 @@
 # Skills
 # System architecture
 - skill: System architecture
-  description: Designing data platforms to provide appropriate performance and HA/DR. Analyzing current system performance metrics such as SQL Server wait statistics and estimating based on expected growth. Ensuring reliability using failover HA/DR technologies such as failover clusters availability groups.
+  description: Designing data platforms to provide appropriate performance by analyzing system performance metrics such as SQL Server wait statistics and estimating based on expected growth. Ensuring reliability using failover HA/DR technologies such as failover clusters and availability groups.
 
 # Organizational leadership
 - skill: Organizational leadership
-  description: Implementing processes for issue tracking and change and incident communication using tools including Jira, Confluence and Microsoft Teams.
+  description: Implementing processes for issue tracking and change and incident communication using tools including Azure DevOps, Jira, Confluence, and Microsoft Teams.
 
 # Tools
 - skill: Tools and technologies.
-  description: <ul class="resume-item-list"><li>SQL Server 2008-2017 (Database Engine, SSIS, SSRS)</li><li>Red-Gate Toolbelt, Idera SQL Diagnostic Manager and Compliance Manager</li><li>Ola Hallengren Maintenance Solution, sp_whoisactive, SQL Server First Responder Kit, dbatools.io PowerShell module</li><li>Bamboo, Octopus Deploy</li><li>Splunk</li></ul>
+  description: <ul class="resume-item-list"><li>Snowflake</li><li>SQL Server 2008-2019 (Database Engine, SSIS, SSRS)</li><li>Data replication&#58; Qlik Replicate, HVR Replication</li><li>Monitoring and auditing&#58; Idera SQL Diagnostic Manager and Compliance Manager, Splunk</li><li>CI/CD tools&#58; Flyway, Azure DevOps, Bamboo, Octopus Deploy, Redgate SQL Toolbelt</li><li>Community tools&#58; Ola Hallengren Maintenance Solution, sp_whoisactive, SQL Server First Responder Kit, dbatools.io PowerShell module</li></ul>
