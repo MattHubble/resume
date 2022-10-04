@@ -9,4 +9,4 @@
 
 # Tools
 - skill: Tools and technologies
-  description: <ul class="resume-item-list"><li>Snowflake</li><li>SQL Server 2008-2019 (Database Engine, SSIS, SSRS)</li><li>Data replication&#58; Qlik Replicate, HVR Replication</li><li>Monitoring and auditing&#58; Idera SQL Diagnostic Manager and Compliance Manager, Splunk</li><li>CI/CD tools&#58; Flyway, Azure DevOps, Bamboo, Octopus Deploy, Redgate SQL Toolbelt</li><li>Community tools&#58; Ola Hallengren Maintenance Solution, sp_WhoIsActive, SQL Server First Responder Kit, dbatools.io PowerShell module</li></ul>
+  description: <ul class="resume-item-list"><li>Azure Data Factory</li><li>Azure SQL Database</li><li>SQL Server 2008-2019 (Database Engine, SSIS, SSRS)</li><li>Snowflake</li><li>Data replication&#58; Qlik Replicate, HVR Replication</li><li>Monitoring and auditing&#58; Idera SQL Diagnostic Manager and Compliance Manager, Splunk</li><li>CI/CD tools&#58; Flyway, Azure DevOps, Bamboo, Octopus Deploy, Redgate SQL Toolbelt</li><li>Community tools&#58; Ola Hallengren Maintenance Solution, sp_WhoIsActive, SQL Server First Responder Kit, dbatools.io PowerShell module</li></ul>
