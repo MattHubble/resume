@@ -3,7 +3,7 @@
 - company: Drips
   position: Lead Database Administrator
   duration: May 2022 &mdash; Present
-  summary: <ul class="resume-item-list"><li>Managed high-volume Azure-based data platform, including Azure SQL databases, Data Factory pipelines, and Synapse workspaces.</li><li>Created table-driven data archiving pipeline using Data Factory to move tens of millions of rows per day from Azure SQL DB to Synapse workspace.</li><li>Supported development team working in .NET with both Entity Framework and Dapper in use.</li></ul>
+  summary: <ul class="resume-item-list"><li>Managed high-volume Azure-based data platform, including Azure SQL databases with multiple multi-billion row tables, Data Factory pipelines, and Synapse workspaces.</li><li>Created table-driven data archiving pipeline using Data Factory to move tens of millions of rows per day from Azure SQL DB to Synapse workspace.</li><li>Supported development team working in .NET with both Entity Framework and Dapper in use.</li></ul>
 # Senior Database Administrator
 - company: Summit Materials
   position: Senior Database Administrator
