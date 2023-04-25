@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "false"
 resume_name:                    "Matt Hubble"
-resume_title:                   "Data Platform Administrator"
+resume_title:                   "Architect"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "contact@hbbl.info"

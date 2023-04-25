@@ -1,4 +1,8 @@
 # Skills
+# Certifications
+- skill: Certifications
+  description: <ul class="resume-item-list"><li>Microsoft Certified&#58; Azure Solutions Architect Expert</li><li>Microsoft Certified&#58; Azure Database Administrator Associate</li><li>Microsoft Certified&#58; Azure Administrator Associate</li><li>Microsoft Certified Solutions Associate&#58; SQL Server 2012/2014</li><li>Microsoft Certified Technology Specialist&#58; SQL Server 2008, Implementation and Maintenance</li></ul>
+
 # System architecture
 - skill: System architecture
   description: Designing data platforms to provide appropriate performance by analyzing system performance metrics such as SQL Server wait statistics and estimations based on expected growth. Ensuring reliability using failover HA/DR technologies such as failover clusters and availability groups.
