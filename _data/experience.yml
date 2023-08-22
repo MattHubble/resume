@@ -3,7 +3,7 @@
 - company: BridgeWorks Consulting Group
   position: Senior Consultant
   duration: November 2022 &mdash; Present
-  summary: <ul class="resume-item-list"><li>Supported client data platforms</li></ul>
+  summary: <ul class="resume-item-list"><li>Supported client hybrid data platforms including on-premises SQL Server, Azure SQL Database, and Azure Data Factory used for integrations and analytics.</li><li>Architected and implemented new Azure tenant based on client requirements, ranging from setting up Azure AD and Azure AD Domain Services to Azure Virtual Desktop.</li><li>Analyzed client Azure tenants, provided recommendations for optimization, and then implemented chosen recommendations such as right-sizing Virtual Machines and creating SQL elastic pools.</li></ul>
 # Lead Database Administrator
 - company: Drips
   position: Lead Database Administrator

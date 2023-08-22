@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "false"
 resume_name:                    "Matt Hubble"
-resume_title:                   "Architect"
+resume_title:                   "Data Platform Engineer"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "contact@hbbl.info"
@@ -54,7 +54,7 @@ resume_social_links:
   #resume_website_url:           "http://joelglovier.com"
   #resume_medium_url:            "https://medium.com/@jglovier"
   #resume_pdf_url:                "https://github.com/MattHubble/resume/raw/gh-pages/webpage/resume.pdf"
-resume_print_social_links:      true
+resume_print_social_links:      false
 
 # Design settings
 resume_theme:                   default
