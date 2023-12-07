@@ -26,6 +26,7 @@
     - Azure SQL Database
     - SQL Server 2008-2019 (Database Engine, SSIS, SSRS)
     - Snowflake
+    - Python
     - Data replication: Qlik Replicate, HVR Replication
     - Monitoring and auditing: Idera SQL Diagnostic Manager and Compliance Manager, Splunk
     - CI/CD tools: Flyway, Azure DevOps, Bamboo, Octopus Deploy, Redgate SQL Toolbelt

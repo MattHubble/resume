@@ -4,9 +4,9 @@
   position: Senior Consultant
   duration: November 2022 &mdash; Present
   summary: |
-    - Supported client hybrid data platforms including on-premises SQL Server, Azure SQL Database, and Azure Data Factory used for integrations and analytics.
-    - Architected and implemented new Azure tenant based on client requirements, ranging from setting up Azure AD and Azure AD Domain Services to Azure Virtual Desktop.
-    - Analyzed client Azure tenants, provided recommendations for optimization, and then implemented chosen recommendations such as right-sizing Virtual Machines and creating SQL elastic pools.
+    - Supported client hybrid data platforms used for integrations and analytics. Technologies utilized include on-premises SQL Server, Azure SQL Database, Azure Data Factory, and custom Python apps running in AWS ECS and EC2 instances.
+    - Architected and implemented new Azure tenant based on client requirements, ranging from setting up Entra ID and Entra Domain Services to Azure Virtual Desktop.
+    - Analyzed client Azure tenants, provided recommendations for optimization, and implemented chosen recommendations such as right-sizing Virtual Machines and creating SQL elastic pools.
     {: .resume-item-list} 
 
 # Lead Database Administrator
