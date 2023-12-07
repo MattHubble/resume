@@ -44,7 +44,7 @@
       - Assisted in developing solution to dynamically load data from 20+ acquired resorts.
       - Created CI/CD pipeline for SQL Server database schema changes and SQL Integration Services projects using Octopus Deploy, Bamboo, and Redgate SQL Change Automation.
     - Managed production and non-production database and application servers for 10+ vendor and in-house apps.
-      - Created PowerShell scripts incorporating community tools (Ola Hallengren Maintenance Solution, SQL First Responder Kit, dbatools.io) to streamline instance configurations, backups, and maintenance jobs across 50+ database servers.
+      - Created PowerShell scripts incorporating community tools to streamline instance configurations, backups, and maintenance jobs across 50+ database servers.
       - Monitored system performance and availability using off-the-shelf tools and created custom Splunk dashboards and reports to provide self-service troubleshooting for multiple application teams.
     {: .resume-item-list} 
 
