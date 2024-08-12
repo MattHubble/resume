@@ -1,8 +1,17 @@
 # Jobs
-# Senior Consultant
-- company: BridgeWorks Consulting Group
+# Jobs
+# Architect 
+- company: The Bridge
   position: Senior Consultant
-  duration: November 2022 &mdash; Present
+  duration: January 2024 &mdash; Present
+  summary: |
+    - Maintained all development and support aspects for customer's Python-based data integration platform running in AWS. 
+    {: .resume-item-list} 
+
+# Senior Consultant
+- company: The Bridge
+  position: Senior Consultant
+  duration: November 2022 &mdash; December 2023
   summary: |
     - Supported client hybrid data platforms used for integrations and analytics. Technologies utilized include on-premises SQL Server, Azure SQL Database, Azure Data Factory, and custom Python apps running in AWS ECS and EC2 instances.
     - Architected and implemented new Azure tenant based on client requirements, ranging from setting up Entra ID and Entra Domain Services to Azure Virtual Desktop.
