@@ -10,21 +10,21 @@
     {: .resume-item-list} 
 
 # System architecture
-- skill: System architecture
-  description: |
-    Designing data platforms to provide appropriate performance by analyzing system performance metrics such as SQL Server wait statistics and estimations based on expected growth. Ensuring reliability using failover HA/DR technologies such as failover clusters and availability groups.
+#- skill: System architecture
+#  description: |
+#    Designing data platforms to provide appropriate performance by analyzing system performance metrics such as SQL Server wait statistics and estimations based on expected growth. Ensuring reliability using failover HA/DR technologies such as failover clusters and availability groups.
 
 # Organizational leadership
-- skill: Organizational leadership
-  description: |
-    Implementing processes for issue tracking and change and incident communication using tools including Azure DevOps, Jira, Confluence, and Microsoft Teams.
+#- skill: Organizational leadership
+#  description: |
+#    Implementing processes for issue tracking and change and incident communication using tools including Azure DevOps, Jira, Confluence, and Microsoft Teams.
 
 # Tools
 - skill: Tools and technologies
   description: |
     - Azure Data Factory
     - Azure SQL Database
-    - SQL Server 2008-2019 (Database Engine, SSIS, SSRS)
+    - SQL Server (Database Engine, SSIS, SSRS)
     - Snowflake
     - Python
     - Data replication: Qlik Replicate, HVR Replication
