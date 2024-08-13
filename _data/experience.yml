@@ -9,13 +9,14 @@
     {: .resume-item-list} 
 
 # Senior Consultant
-- company: The Bridge
+- company: Bridgeworks Consulting Group
   position: Senior Consultant
   duration: November 2022 &mdash; December 2023
   summary: |
     - Supported client hybrid data platforms used for integrations and analytics. Technologies utilized include on-premises SQL Server, Azure SQL Database, Azure Data Factory, and custom Python apps running in AWS ECS and EC2 instances.
     - Architected and implemented new Azure tenant based on client requirements, ranging from setting up Entra ID and Entra Domain Services to Azure Virtual Desktop.
-    - Analyzed client Azure tenants, provided recommendations for optimization, and implemented chosen recommendations such as right-sizing Virtual Machines and creating SQL elastic pools.
+    - Developed Data Factory pipelines to pull data from Microsoft Graph API into Azure SQL Database for customer M365 tenant analytics.
+    - Analyzed client Azure tenants, provided recommendations, and implemented chosen recommendations to optimize costs and performance.
     {: .resume-item-list} 
 
 # Lead Database Administrator
@@ -24,8 +25,8 @@
   duration: May 2022 &mdash; November 2022
   summary: |
     - Managed high-volume Azure-based data platform, including Azure SQL databases with multiple multi-billion row tables, Data Factory pipelines, and Synapse workspaces.
-    - Created table-driven data archiving pipeline using Data Factory to move tens of millions of rows per day from Azure SQL DB to Synapse workspace.
-    - Supported development team working in .NET with both Entity Framework and Dapper in use.
+    - Created table-driven data archiving pipeline using Data Factory moving tens of millions of rows per day from Azure SQL DB to Synapse workspace.
+    - Supported .NET development team utilizing both Entity Framework and Dapper.
     {: .resume-item-list} 
 
 # Senior Database Administrator
@@ -45,13 +46,13 @@
   position: Principal Database Administrator
   duration: January, 2014 &mdash; February, 2020
   summary: |
-    - Lead architecture team efforts to design infrastructure according to application availability, security, and performance requirements.
-    - Designed and supported data warehouse in partnership with BI development team to pull data primarily using SSIS and T-SQL from 20+ different sources including SQL Server, APIs returning JSON and XML, and DB2.
-      - Implemented partitioning and data load process utilizing partition switching for billion+ row fact tables and subsequently converted those tables to clustered columnstore indexed tables after  upgrading to SQL 2016.
+    - Lead efforts to architect data infrastructure according to application availability, security, and performance requirements.
+    - Designed and supported data warehouse in partnership with BI development team to pull data using SSIS and T-SQL from 20+ different sources including SQL Server, APIs returning JSON and XML, and DB2.
+      - Implemented partitioned clustered columnstore tables and data load processes utilizing partition switching for billion+ row fact tables.
       - Utilized Query Store to identify most problematic queries of nightly ETL processes and provided developers with query optimizations, reducing daily runtime by multiple hours.
       - Set up Qlik Replicate for real-time data replication from main point-of-sale system database.
       - Assisted in developing solution to dynamically load data from 20+ acquired resorts.
-      - Created CI/CD pipeline for SQL Server database schema changes and SQL Integration Services projects using Octopus Deploy, Bamboo, and Redgate SQL Change Automation.
+      - Created CI/CD pipelines for SQL Server database schema changes and SQL Integration Services projects using Octopus Deploy, Bamboo, and Redgate SQL Change Automation.
     - Managed production and non-production database and application servers for 10+ vendor and in-house apps.
       - Created PowerShell scripts incorporating community tools to streamline instance configurations, backups, and maintenance jobs across 50+ database servers.
       - Monitored system performance and availability using off-the-shelf tools and created custom Splunk dashboards and reports to provide self-service troubleshooting for multiple application teams.
