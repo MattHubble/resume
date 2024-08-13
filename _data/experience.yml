@@ -15,7 +15,7 @@
   summary: |
     - Supported client hybrid data platforms used for integrations and analytics. Technologies utilized include on-premises SQL Server, Azure SQL Database, Azure Data Factory, and custom Python apps running in AWS ECS and EC2 instances.
     - Architected and implemented new Azure tenant based on client requirements, ranging from setting up Entra ID and Entra Domain Services to Azure Virtual Desktop.
-    - Developed Data Factory pipelines to pull data from Microsoft Graph API into Azure SQL Database for customer M365 tenant analytics.
+    - Developed Data Factory pipeline templates to pull data from Microsoft Graph API into Azure SQL Database for customer M365 tenant analytics.
     - Analyzed client Azure tenants, provided recommendations, and implemented chosen recommendations to optimize costs and performance.
     {: .resume-item-list} 
 
