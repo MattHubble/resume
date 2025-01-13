@@ -1,21 +1,22 @@
 # Jobs
 # Jobs
 # Architect 
-- company: The Bridge
-  position: Senior Consultant
-  duration: January 2024 &mdash; Present
-  summary: |
-    - Maintained all development and support aspects for customer's Python-based data integration platform running in AWS. 
-    {: .resume-item-list} 
+# - company: The Bridge
+#   position: Senior Consultant
+#   duration: January 2024 &mdash; Present
+#   summary: |
+#     - Maintained all development and support aspects for customer's Python-based data integration platform running in AWS. 
+#     {: .resume-item-list} 
 
 # Senior Consultant
-- company: Bridgeworks Consulting Group
+- company: The Bridge (formerly Bridgeworks Consulting Group)
   position: Senior Consultant
-  duration: November 2022 &mdash; December 2023
+  duration: November 2022 &mdash; Present
   summary: |
-    - Supported client hybrid data platforms used for integrations and analytics. Technologies utilized include on-premises SQL Server, Azure SQL Database, Azure Data Factory, and custom Python apps running in AWS ECS and EC2 instances.
-    - Architected and implemented new Azure tenant based on client requirements, ranging from setting up Entra ID and Entra Domain Services to Azure Virtual Desktop.
+    - Lead development and support for customer's Python-based data integration platform running in AWS.    
+    - Supported client hybrid data platforms used for integrations and analytics utilizing on-premises SQL Server, Azure SQL Database, and Azure Data Factory.
     - Developed Data Factory pipeline templates to pull data from Microsoft Graph API into Azure SQL Database for customer M365 tenant analytics.
+    - Architected and implemented new Azure tenant for client cloud migration, ranging from setting up Entra ID and Entra Domain Services to Azure Virtual Desktop.
     - Analyzed client Azure tenants, provided recommendations, and implemented chosen recommendations to optimize costs and performance.
     {: .resume-item-list} 
 
@@ -37,7 +38,7 @@
     - Sole DBA responsible for 65 SQL Server instances and 10 Azure SQL databases backing both vendor applications and in-house developed platforms.
     - Partnered with development team to migrate 1TB data warehouse from Azure SQL Databases into Snowflake.
       - Built CI/CD pipeline in Azure DevOps utilizing Flyway for all Snowflake code deployments.
-      - Implemented HVR for data replication from 30+ source databases, greatly reducing effort and turn-around time for new development requests.
+      - Implemented Fivetran HVR for data replication from 30+ source databases, greatly reducing effort and turn-around time for new development requests.
       - Designed role-based data masking strategy to restrict visibility of sensitive data.
     {: .resume-item-list} 
 
