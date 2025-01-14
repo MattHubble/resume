@@ -13,7 +13,7 @@
   position: Senior Consultant
   duration: November 2022 &mdash; Present
   summary: |
-    - Lead development and support for customer's Python-based data integration platform running in AWS.    
+    - Led development and support for customer's Python-based data integration platform running in AWS.    
     - Supported client hybrid data platforms used for integrations and analytics utilizing on-premises SQL Server, Azure SQL Database, and Azure Data Factory.
     - Developed Data Factory pipeline templates to pull data from Microsoft Graph API into Azure SQL Database for customer M365 tenant analytics.
     - Architected and implemented new Azure tenant for client cloud migration, ranging from setting up Entra ID and Entra Domain Services to Azure Virtual Desktop.
@@ -47,7 +47,7 @@
   position: Principal Database Administrator
   duration: January, 2014 &mdash; February, 2020
   summary: |
-    - Lead efforts to architect data infrastructure according to application availability, security, and performance requirements.
+    - Led efforts to architect data infrastructure according to application availability, security, and performance requirements.
     - Designed and supported data warehouse in partnership with BI development team to pull data using SSIS and T-SQL from 20+ different sources including SQL Server, APIs returning JSON and XML, and DB2.
       - Implemented partitioned clustered columnstore tables and data load processes utilizing partition switching for billion+ row fact tables.
       - Utilized Query Store to identify most problematic queries of nightly ETL processes and provided developers with query optimizations, reducing daily runtime by multiple hours.

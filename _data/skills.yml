@@ -22,13 +22,13 @@
 # Tools
 - skill: Tools and technologies
   description: |
-    - Azure Data Factory
-    - Azure SQL Database
-    - SQL Server
+    - Azure:  Data Factory, DevOps, Logic Apps, Functions, SQL Database, Synapse Analytics, Virtual Desktop
+    - AWS: CloudFormation, CodeArtifact, CodeBuild, EC2, ECS, S3, Transfer Family
+    - Microsoft SQL Server
     - Snowflake
     - Python
     - Data replication: Qlik Replicate, Fivetran HVR
     - Monitoring and auditing: Idera SQL Diagnostic Manager and Compliance Manager, Splunk
-    - CI/CD tools: Azure DevOps, GitHub Actions, Bamboo, Octopus Deploy, Flyway, Redgate SQL Toolbelt
+    - CI/CD tools: Azure Pipelines, GitHub Actions, Bamboo, Octopus Deploy, Flyway, Redgate SQL Toolbelt
     - Community tools: Ola Hallengren Maintenance Solution, sp_WhoIsActive, SQL Server First Responder Kit, dbatools.io PowerShell module
     {: .resume-item-list} 
