@@ -1,17 +1,20 @@
 # Jobs
-# Jobs
 # Architect 
-# - company: The Bridge
-#   position: Senior Consultant
-#   duration: January 2024 &mdash; Present
-#   summary: |
-#     - Maintained all development and support aspects for customer's Python-based data integration platform running in AWS. 
-#     {: .resume-item-list} 
+- company: RK Industries
+  position: Enterprise Data Architect
+  duration: April 2025 &mdash; Present
+  summary: |
+    - Served as lead for enterprise data platform team, guiding architecture and development for a system that consolidated data from twelve source enterprise systems into a single data warehouse modeled using data vault design principles.
+    - Re-developed process to extract material data from Revit models in Autodesk Cloud via a Python-based Azure Function App and Azure Data Factory, reducing daily runtime and processing costs by 75% compared to previous Data Factory-only implementation.
+    - Implemented dynamic data and process validation rules to identify potential data warehouse load issues.
+    - Refined team SDLC workflow using Azure DevOps pipelines for database builds and deployments.
+    - Developed Python-based framework for syncing data between enterprise data platform and cloud-based ERP via REST APIs.
+    {: .resume-item-list} 
 
 # Senior Consultant
 - company: The Bridge (formerly Bridgeworks Consulting Group)
   position: Senior Consultant
-  duration: November 2022 &mdash; Present
+  duration: November 2022 &mdash; Marh 2025
   summary: |
     - Led development and support for customer's Python-based data integration platform running in AWS.    
     - Supported client hybrid data platforms used for integrations and analytics utilizing on-premises SQL Server, Azure SQL Database, and Azure Data Factory.
